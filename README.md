@@ -1,16 +1,15 @@
-### Hi there 👋
+## Oi! Eu sou a Fer 👋
+- 💻 Bacharel em Sistemas de Informação
+- 📚 Desenvolvedora full-stack em formação
+- 👓 Pronomes: Ela/Dela
+- 💃 Dancing Queen
 
-<!--
-**fernanda-reis/fernanda-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernanda-reis&count_private=true&show_icons=true&theme=github_dark)](https://github.com/fernanda-reis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-reis&layout=compact&count_private=true&show_icons=true&theme=github_dark&card_width=300px)](https://github.com/fernanda-reis)
+
+##
+
+	
