@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Fer 👋
 - 💻 Bacharel em Sistemas de Informação
 - 📚 Desenvolvedora full stack em formação
-- 👓 Pronomes: Ela/Dela
+- 💭 Pronomes: Ela/Dela
 - 💃 Dancing Queen
 
 
