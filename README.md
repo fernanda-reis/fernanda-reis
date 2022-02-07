@@ -4,7 +4,7 @@
 - 👓 Pronomes: Ela/Dela
 - 💃 Dancing Queen
 
-##
+
 
 <div>		
 <img margin-right="200px" height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-reis&count_private=true&show_icons=true&theme=github_dark"/>
