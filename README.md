@@ -2,7 +2,7 @@
 - 💻 Bacharel em Sistemas de Informação
 - 📚 Desenvolvedora full stack em formação
 - 💭 Pronomes: Ela/Dela
-- 💃 Dancing Queen
+- ✉ E-mail para contato: fernandasoares.reis1@gmail.com
 
 
 
