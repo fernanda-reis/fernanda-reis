@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Fer 👋
 - 💻 Bacharel em Sistemas de Informação
-- 📚 Desenvolvedora backend em formação
+- 📚 Desenvolvedora backend em constante aprendizado
 - 💭 Pronomes: Ela/Dela
 - 📧 E-mail para contato: fernandasoares.reis1@gmail.com
 
